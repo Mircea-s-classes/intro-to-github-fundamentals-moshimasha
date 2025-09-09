@@ -1,0 +1,1 @@
+Hi, I'm not sure what the original assignment instructions were since I joined the class late on 9/9, but I have cloned the repository from the github classroom and added this readme.
